@@ -1,28 +1,13 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
+Package: wtf.gage.pluto.particles
 Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Section: Widgets
+Maintainer: Gage N (lux) <gage@gage.wtf>
+Depends: com.matchstic.xenhtml
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Filename: wtf.gage.pluto.particles_1.0.0-1_iphoneos-arm.deb
+Size: 4798
+MD5sum: 7e08cea1ef946a350fd536b0a0c2d284
+Description: A cool XenHTML widget, part of the Pluto Suite.
+Name: Pluto (Particles)
+Author: Gage N (lux) <gage@gage.wtf>
+Depiction: https://gage.wtf/depictions/?p=wtf.gage.pluto.particles
