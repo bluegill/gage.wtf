@@ -5,8 +5,8 @@ Maintainer: Gage N (lux) <gage@gage.wtf>
 Depends: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Filename: ./debs/wtf.gage.pluto.particles_1.0.0-1_iphoneos-arm.deb
-Size: 4798
-MD5sum: 7e08cea1ef946a350fd536b0a0c2d284
+Size: 4824
+MD5sum: 5aac35d402e7fe405a4311341c835040
 Description: A cool XenHTML widget, part of the Pluto Suite.
 Name: Pluto (Particles)
 Author: Gage N (lux) <gage@gage.wtf>
